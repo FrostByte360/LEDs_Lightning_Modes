@@ -10,9 +10,7 @@ Description:
 Programmer:
   Gyro A. Madrona
 
-Additional Documentation:
-  Mark Garcia
-  
+
 Date:
   3 Aug 2026
 ==========================================================================*/
